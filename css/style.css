@@ -11,10 +11,11 @@ html, body {
 }
 
 	header {
-	margin-bottom: 10px;
-	display: flex;
-	flex-flow: row wrap;
-		background-color: black;
+		background-color: purple;
+		padding: auto;
+		margin-bottom: 10px;
+		display: flex;
+
 	}
 
 	h1{
@@ -22,16 +23,17 @@ html, body {
 		text-align: left;
 	}
 
-em{
+   em{
 	color: green;
-	text-align: center;
 }
 
 
 
-/* This is the Welcome to my page and pic of and instrucitons
+/* This is the Welcome to my page and pic of and instrucitons */
+
 .container {
-	margin: 0 auto;
+  width: 80%;
+	margin: auto;
 	padding: 0 2rem;
 
 }

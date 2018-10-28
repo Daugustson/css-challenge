@@ -15,7 +15,7 @@
 			<!-- HEADER -->
 			<header>
 				<div class="container">
-					<h1>Dylan McDonald:</h1>
+					<h1>Dylan McDonald:~S</h1>
 					<em>Computer Scientist. Cat Lover. Picard Fan.</em>
 				</div>
 			</header>
@@ -37,7 +37,7 @@
 								<li>Have fun! The solution will be demonstrated in class. <small>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</small></li>
 							</ol>
 						</div>
-						<img src="images/captain-janeway.png" alt="captain janeway" />
+						<img src="images/captain-janeway.png" width="100" height="100" alt="captain janeway" />
 						<div class="clearfix"></div>
 					</div><!--/.instructions-->
 				</div><!--/.container-->
