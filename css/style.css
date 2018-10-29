@@ -94,13 +94,33 @@ body { width: 100%;}
 ******************************************************/
 
 
-.instructions-content {
+.instructions-wrapper {
 	border-style: solid;
 	border-color: rgba(5, 10, 4, 0.88);
-	border-width: 3px;}
+	border-width: 3px;
+	margin-bottom: 10px;
+}
 
-.instructions-content image {
+.instructions-wrapper img {
 	float: right;
+	align-content: right;
+	position: absolute;
+	top: 340px;
+	left: 1050px;
+}
+
+.about-me {
+	border-style: solid;
+	border-color: rgba(5, 10, 4, 0.88);
+	border-width: 3px;
+	background-color: blue;
+
+}
+.about-me img {
+	float: left;
+}
+.about-me P {
+
 }
 
 
@@ -139,11 +159,11 @@ td, th, tr {
 	width: 25%;
 }
 
-button input {
+button {
 	background-color: greenyellow;
 	color: black;
 	padding: 10px 15px;
-	border:none;
+	border: 2px;
 }
 
 
