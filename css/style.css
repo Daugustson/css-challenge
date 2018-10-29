@@ -13,8 +13,6 @@ html, body {
 	header {
 		background-color: black;
 		margin-bottom: 10px;
-		margin-left: 50px;
-		margin-right: 50px;
 		display: flex;
 		position: relative;
 
@@ -142,7 +140,7 @@ td, th, tr {
 	color: greenyellow;
 	background-color: forestgreen;
 	border-style: solid;
-	border-color: #050A04;
+	border-color: #050a04;
 	border-width: 70px;
 }
 
