@@ -10,27 +10,6 @@ html, body {
 	box-sizing: border-box;
 }
 
-	header {
-		background-color: black;
-		margin-bottom: 10px;
-		display: flex;
-		position: relative;
-
-	}
-
-	h1{
-		color: #73B32A;
-		text-align: left;
-	}
-
-   em{
-	color: #73B32A;
-		text-align: right;
-		position: absolute;
-		top: 36px;
-		left:450px;
-	}
-
 
 
 
@@ -90,6 +69,27 @@ body { width: 100%;}
 * * Pseudo Classes
 * * Attribute Selectors
 ******************************************************/
+/** desplay inline-block for header h1**/
+header {
+	background-color: black;
+	margin-bottom: 10px;
+	display: flex;
+	position: relative;
+
+}
+
+h1{
+	color: #73B32A;
+	text-align: left;
+}
+
+em{
+	color: #73B32A;
+	text-align: right;
+	position: absolute;
+	top: 36px;
+	left:450px;
+}
 
 
 .instructions-wrapper {
